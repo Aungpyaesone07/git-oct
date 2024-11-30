@@ -1,0 +1,15 @@
+        git init
+        git remote add origin 
+
+        git add.
+        git commit -m "message"
+        git push origin main
+
+        အသစ်ယူ
+        git checkout -b "name"
+        ရှိပြီးသား ဆိုရင်
+        git checkout branch_name
+        
+        git config --get remote.origin.url //show remote url
+        git remote remove origin // origin ကိုဖျက်
+        git remote -v
